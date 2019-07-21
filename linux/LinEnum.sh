@@ -1,5 +1,6 @@
 #!/bin/bash
 #A script to enumerate local information from a Linux host
+thorough=1
 version="version 0.96"
 #@rebootuser
 
